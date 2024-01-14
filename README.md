@@ -6,6 +6,12 @@ Welcome to the EasyShop E-commerce API project! This repository contains the bac
 
 The EasyShop E-commerce Backend is developed using Spring Boot and Java. It provides backend functionalities for user registration, product management, shopping cart features, and more.
 
+
+
+<img width="1440" alt="Screenshot 2024-01-14 at 6 30 32 AM" src="https://github.com/Theo-Adodoadji/EasyShopAPI/assets/83113035/1451706d-3b06-4beb-9a32-3ee425a0efde">
+
+
+
 ## Table of Contents
 
 - [Features](#features)

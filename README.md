@@ -1,6 +1,6 @@
-# EasyShop E-commerce Backend
+# EasyShop E-commerce API
 
-Welcome to the EasyShop E-commerce Backend project! This repository contains the backend codebase for the EasyShop online store.
+Welcome to the EasyShop E-commerce API project! This repository contains the backend codebase for the EasyShop online store.
 
 ## Project Overview
 
@@ -53,3 +53,6 @@ The EasyShop E-commerce Backend is developed using Spring Boot and Java. It prov
    ```bash
    git clone https://github.com/your-username/easyshop-backend.git
    cd easyshop-backend
+2. Passwords for web API are
+user: admin
+password: password
